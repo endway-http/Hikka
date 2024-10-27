@@ -1,7 +1,7 @@
 #   █▀▀ ▄▀█   █▀▄▀█ █▀█ █▀▄ █▀
 #   █▀░ █▀█   █░▀░█ █▄█ █▄▀ ▄█
 
-#   https://t.me/famods
+#   https://t.me/NnllV0y
 
 # 🔒    Licensed under the GNU AGPLv3
 # 🌐 https://www.gnu.org/licenses/agpl-3.0.html
@@ -9,8 +9,7 @@
 # ---------------------------------------------------------------------------------
 # Name: Fun
 # Description: Module for fun обнва от @nnllv0y
-# meta developer: @FAmods
-# meta banner: https://github.com/FajoX1/FAmods/blob/main/assets/banners/fun.png?raw=true
+# meta developer: @nnllv0y
 # ---------------------------------------------------------------------------------
 
 import random
